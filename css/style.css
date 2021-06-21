@@ -1,0 +1,30 @@
+body
+	{
+		background-color: pink;
+	}
+
+a:link, a:visited
+	{
+		background-color: lightblue;
+		color:#BA723D;
+		text-decoration: none;
+		padding: 18px;
+		text-align: center;
+		display: inline-block;
+		font-family: 'Oleo Script', cursive;
+	}
+
+
+a:hover
+	{
+		color:purple;
+		background-color: #A8C657;
+		text-decoration: underline;
+	}
+
+a:active
+	{
+		color: green;
+		background-color: white;
+		text-decoration: underline;
+	}
